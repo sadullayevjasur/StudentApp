@@ -11,3 +11,8 @@ Currently, two official plugins are available:
 # StudentApp
 # StudentApp
 # Student
+# Student
+# Student
+# Student
+# Student
+# Student
